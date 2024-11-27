@@ -17,7 +17,10 @@ Video 5 (Controller)
 ![image](https://github.com/user-attachments/assets/54c21123-0fcc-46ea-a104-b90d625ec8ea)
 ![image](https://github.com/user-attachments/assets/f8a63171-7709-4311-8843-d6fe28541f9e)
 ___________________________________________________________________________________________________________________________________
-Video 6
+Video 6 (Migration)
+![image](https://github.com/user-attachments/assets/99b28fcb-6c8f-4bc7-9590-71a1031aa8ef)
+![image](https://github.com/user-attachments/assets/601c11e4-a854-4a7e-bd2b-1ece8e918471)
+
 
 (PRAK 8 PBW)
 
