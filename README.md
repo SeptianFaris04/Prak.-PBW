@@ -24,7 +24,11 @@ Video 6 (Migration)
 
 (PRAK 8 PBW)
 
-Video 7
+Video 7 (DB Facades)
+![image](https://github.com/user-attachments/assets/a9a12ada-299b-4651-83ce-ec083e7be6c1)
+![image](https://github.com/user-attachments/assets/7d9b159b-21e9-4c7d-9e3d-bf0c5af21444)
+
+
 
 Video 8
 
