@@ -28,10 +28,10 @@ Video 7 (DB Facades)
 ![image](https://github.com/user-attachments/assets/a9a12ada-299b-4651-83ce-ec083e7be6c1)
 ![image](https://github.com/user-attachments/assets/7d9b159b-21e9-4c7d-9e3d-bf0c5af21444)
 ____________________________________________________________________________________________________________________________________
-Video 8
+Video 8 (Model dan Fetching)
 ![image](https://github.com/user-attachments/assets/2011f185-bdb8-4568-95eb-53d25ad78f76)
 ____________________________________________________________________________________________________________________________________
-Video 9 
+Video 9 (Kondisi Dalam Komponen)
 ![image](https://github.com/user-attachments/assets/6f13a94b-65de-4db2-af7f-fc2da54d5c02)
 ____________________________________________________________________________________________________________________________________
 Video 10
