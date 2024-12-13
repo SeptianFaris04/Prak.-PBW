@@ -34,8 +34,10 @@ ________________________________________________________________________________
 Video 9 (Kondisi Dalam Komponen)
 ![image](https://github.com/user-attachments/assets/6f13a94b-65de-4db2-af7f-fc2da54d5c02)
 ____________________________________________________________________________________________________________________________________
-Video 10
-
+Video 10 (Fillabel and Guarded)
+![image](https://github.com/user-attachments/assets/e8e44f1d-7f79-4de1-977f-bacb8c119aed)
+![image](https://github.com/user-attachments/assets/8114d7f5-d95b-4a2a-aca6-c9f2c0b7f2b5)
+____________________________________________________________________________________________________________________________________
 Video 11
 
 Video 12
