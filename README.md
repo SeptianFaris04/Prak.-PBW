@@ -39,7 +39,10 @@ Video 10 (Fillabel and Guarded)
 ![image](https://github.com/user-attachments/assets/8114d7f5-d95b-4a2a-aca6-c9f2c0b7f2b5)
 ____________________________________________________________________________________________________________________________________
 Video 11 (Validasi Data)
-
+![image](https://github.com/user-attachments/assets/0282641e-9bec-48f4-86da-1ad1260198c1)
+![image](https://github.com/user-attachments/assets/4c96048d-5f59-4b91-9fc2-cd820d58be97)
+![image](https://github.com/user-attachments/assets/1e6df5ce-3d40-40e2-93df-38560533fbb9)
+____________________________________________________________________________________________________________________________________
 Video 12
 
 Video 13
