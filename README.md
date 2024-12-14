@@ -44,7 +44,13 @@ Video 11 (Validasi Data)
 ![image](https://github.com/user-attachments/assets/4c96048d-5f59-4b91-9fc2-cd820d58be97)
 ![image](https://github.com/user-attachments/assets/1e6df5ce-3d40-40e2-93df-38560533fbb9)
 ____________________________________________________________________________________________________________________________________
-Video 12
+Video 12 (Route Wildcard)
+
+![image](https://github.com/user-attachments/assets/cfa756ee-7943-4a06-9089-d2e412051a9b)
+![image](https://github.com/user-attachments/assets/39b0a918-bcd7-418b-b3d1-4428f8786929)
+![image](https://github.com/user-attachments/assets/28fd6ba4-ec80-44d1-aeee-0d127ea3578a)
+![image](https://github.com/user-attachments/assets/dcb9f3fd-e041-4f15-bbab-02dd144b9e31)
+
 
 Video 13
 
