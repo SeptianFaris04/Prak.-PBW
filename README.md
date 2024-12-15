@@ -55,7 +55,6 @@ Video 13 (Update dan Refactor)
 
 ![image](https://github.com/user-attachments/assets/dff65d38-d19c-4821-9fc5-68b2b4add391)
 ![image](https://github.com/user-attachments/assets/f672a532-9b62-4a80-899f-23b2b63ce5ab)
-![image](https://github.com/user-attachments/assets/814a2dc1-6e8a-45a5-954c-2a32e7bde395)
 ![image](https://github.com/user-attachments/assets/c2b49230-56c7-4b85-9714-3679b6297d27)
 ![image](https://github.com/user-attachments/assets/4966c851-1d10-4ef4-9741-95bb1d306f32)
 ____________________________________________________________________________________________________________________________________
