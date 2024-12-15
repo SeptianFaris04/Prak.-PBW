@@ -53,6 +53,10 @@ Video 12 (Route Wildcard)
 
 
 Video 13 (Update dan Refactor)
+![image](https://github.com/user-attachments/assets/143d33c2-a6b5-462c-b697-508de300a757)
+![image](https://github.com/user-attachments/assets/f672a532-9b62-4a80-899f-23b2b63ce5ab)
+
+
 
 Video 14
 
