@@ -70,8 +70,14 @@ Video 14 (Handle Request)
 ![image](https://github.com/user-attachments/assets/05b6a6f8-7943-4d0f-8546-e88c374c95c8)
 ____________________________________________________________________________________________________________________________________
 
-Video 15
+Video 15 (Delete)
 
+(Kondisi sebelum dihapus)
+![image](https://github.com/user-attachments/assets/e38ca2c3-65ee-49da-bfda-38ca4351f024)
+
+(Kondisi Sesudah dihapus dibagian Users sudah tidak ada)
+![image](https://github.com/user-attachments/assets/0e2a3995-76c5-416a-9949-97f28c1649ca)
+____________________________________________________________________________________________________________________________________
 Video 16
 
 Video 17
