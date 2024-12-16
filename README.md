@@ -51,6 +51,9 @@ Video 12 (Route Wildcard)
 ![image](https://github.com/user-attachments/assets/28fd6ba4-ec80-44d1-aeee-0d127ea3578a)
 ![image](https://github.com/user-attachments/assets/dcb9f3fd-e041-4f15-bbab-02dd144b9e31)
 ___________________________________________________________________________________________________________________________________
+
+(PRAK 9 PBW)
+
 Video 13 (Update dan Refactor)
 
 ![image](https://github.com/user-attachments/assets/dff65d38-d19c-4821-9fc5-68b2b4add391)
@@ -58,7 +61,14 @@ Video 13 (Update dan Refactor)
 ![image](https://github.com/user-attachments/assets/c2b49230-56c7-4b85-9714-3679b6297d27)
 ![image](https://github.com/user-attachments/assets/4966c851-1d10-4ef4-9741-95bb1d306f32)
 ____________________________________________________________________________________________________________________________________
-Video 14
+Video 14 (Handle Request)
+
+(Kalau dengan email yang sama tidak bisa di Create New User)
+![image](https://github.com/user-attachments/assets/6210abce-4a66-4b9a-b8e7-13a1f1c75078)
+
+(Kalau dengan email yang berbeda akan berhasil di Create New User)
+![image](https://github.com/user-attachments/assets/05b6a6f8-7943-4d0f-8546-e88c374c95c8)
+____________________________________________________________________________________________________________________________________
 
 Video 15
 
