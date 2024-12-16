@@ -61,7 +61,7 @@ Video 13 (Update dan Refactor)
 ![image](https://github.com/user-attachments/assets/c2b49230-56c7-4b85-9714-3679b6297d27)
 ![image](https://github.com/user-attachments/assets/4966c851-1d10-4ef4-9741-95bb1d306f32)
 ____________________________________________________________________________________________________________________________________
-Video 14
+Video 14 (Handle Request)
 
 (Kalau dengan email yang sama tidak bisa di Create New User)
 ![image](https://github.com/user-attachments/assets/6210abce-4a66-4b9a-b8e7-13a1f1c75078)
