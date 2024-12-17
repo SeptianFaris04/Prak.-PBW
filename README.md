@@ -81,6 +81,12 @@ ________________________________________________________________________________
 # Video 16 (Route Resource)
 ![image](https://github.com/user-attachments/assets/84779863-ac7a-4b39-839e-13d6bf33f94a)
 ![image](https://github.com/user-attachments/assets/60c4b00b-c40d-425b-95a2-a45fb490b456)
+
+(Kondisi sebelum di delete)
+![image](https://github.com/user-attachments/assets/4bb199f3-9c60-4a49-949e-f51204003a96)
+
+(Kondisi sesudah di delete)
+![image](https://github.com/user-attachments/assets/03ba044d-531f-46f7-9d59-87c917486f90)
 ____________________________________________________________________________________________________________________________________
 # Video 17
 
