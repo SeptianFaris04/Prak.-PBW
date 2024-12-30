@@ -1,4 +1,4 @@
-<nav class="bg-zinc-900">
+<nav class="bg-zinc-800">
 <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     
     <div class="flex items-center">
@@ -7,12 +7,33 @@
       </div>
       <div class="hidden md:block">
         <div class="ml-10 flex items-baseline space-x-4">
-          <x-navbar.link href="{{route('about')}}">Home</x-navbar.nav-link>
-          <x-navbar.link href="/about">About</x-navbar.nav-link>
+         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" 
+            aria-current="page 
+            -->
+          <x-navbar.link href="/">Home</x-navbar.nav-link>
+          <x-navbar.link href="{{ route('about') }}">About</x-navbar.nav-link>
           <x-navbar.link href="/contact">Contact</x-navbar.nav-link>
           <x-navbar.link href="/gallery">Gallery</x-navbar.nav-link>
-          <x-navbar.link href="{{ route('users.index') }}">Users</x-navbar.link>
-        </div> 
+
+        @auth
+          <x-navbar.link href="{{ route('users.index') }}">Users</x-navbar.nav-link>
+        @endauth
+        
+          @auth
+
+             <x-navbar.link href="#">
+               {{ auth()->user()->name }}
+             </x-navbar.nav-link>
+             <form action=" {{ route('logout') }}" method="post">
+                @csrf
+                <x-button type="submit">
+                  Log Out
+                </x-button>
+             </form>
+            @else
+                 <x-navbar.link href="{{ route('login') }}">Login</x-navbar.nav-link>
+            @endauth
+        </div>
       </div>
     </div>
    
@@ -22,7 +43,7 @@
     </div>
     <div class="-mr-2 flex md:hidden">
       <!-- Mobile menu button -->
-      <button type="button" class="relative inline-flex items-center justify-center rounded-md bg-zinc-800 p-2 text-zinc-400 hover:bg-zinc-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-zinc-800" aria-controls="mobile-menu" aria-expanded="false">
+      <button type="button" class="relative inline-flex items-center justify-center rounded-md bg-zinc-800 p-2 text-zinc-400 hover:bg-zinc-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" aria-controls="mobile-menu" aria-expanded="false">
         <span class="absolute -inset-0.5"></span>
         <span class="sr-only">Open main menu</span>
         <!-- Menu open: "hidden", Menu closed: "block" -->
@@ -41,6 +62,7 @@
 <!-- Mobile menu, show/hide based on menu state. -->
 <div class="md:hidden" id="mobile-menu">
   <div class="space-y-1 px-2 pb-3 pt-2 sm:px-3">
+    <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
      <x-navbar.dropdown-item href="/"> Home </x-navbar.dropdown-link>
      <x-navbar.dropdown-item href="{{ route('about') }}"> About </x-navbar.dropdown-link>
      <x-navbar.dropdown-item href="/contact"> Contact </x-navbar.dropdown-link>
@@ -56,7 +78,7 @@
         <div class="text-base/5 font-medium text-white">Tom Cook</div>
         <div class="text-sm font-medium text-zinc-400">tom@example.com</div>
       </div>
-      <button type="button" class="relative ml-auto shrink-0 rounded-full bg-zinc-800 p-1 text-zinc-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-zinc-800">
+      <button type="button" class="relative ml-auto shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
         <span class="absolute -inset-1.5"></span>
         <span class="sr-only">View notifications</span>
         <svg class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
