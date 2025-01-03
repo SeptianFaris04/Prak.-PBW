@@ -99,4 +99,5 @@ ________________________________________________________________________________
 # (PRAK 10 PBW)
 
 # Video 19 (Table dan Komponen)
+![image](https://github.com/user-attachments/assets/58add8a5-4851-45f9-98ad-d8c65e0fa77d)
 
