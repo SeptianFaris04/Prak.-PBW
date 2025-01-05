@@ -101,3 +101,22 @@ ________________________________________________________________________________
 # Video 19 (Table dan Komponen)
 ![image](https://github.com/user-attachments/assets/58add8a5-4851-45f9-98ad-d8c65e0fa77d)
 
+# Video 20 ()
+# Video 21 ()
+# Video 22 ()
+# Video 23 ()
+# Video 24 ()
+
+# (PRAK 11 PBW)
+# Video 25 ()
+# Video 26 ()
+# Video 27 ()
+# Video 28 ()
+# Video 29 ()
+# Video 30 ()
+
+# (PRAK 12 PBW)
+# Video 31 ()
+# Video 32 ()
+# Video 33 ()
+
